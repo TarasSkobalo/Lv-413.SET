@@ -258,11 +258,11 @@
   </component>
   <component name="RunManager" selected="Application.parameterizedMethods">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t2.Car" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5_LoopsArrays.t2.Car" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t2.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5_LoopsArrays.t2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +271,11 @@
       </method>
     </configuration>
     <configuration name="OrganizeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t1.OrganizeInt" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5_LoopsArrays.t1.OrganizeInt" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5_LoopsArrays.t1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,11 +284,11 @@
       </method>
     </configuration>
     <configuration name="PositionNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t1.PositionNum" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5_LoopsArrays.t1.PositionNum" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5_LoopsArrays.t1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,11 +297,11 @@
       </method>
     </configuration>
     <configuration name="SumPosNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t1.SumPosNum" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5_LoopsArrays.t1.SumPosNum" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5_LoopsArrays.t1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,11 +310,11 @@
       </method>
     </configuration>
     <configuration name="parameterizedMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6Collections.parameterizedMethods" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6_Collections.parameterizedMethods" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n6Collections.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n6_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
