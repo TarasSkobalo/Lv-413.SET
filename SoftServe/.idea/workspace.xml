@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="Collections-first task">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6/parameterizedMethods.java" afterDir="false" />
+    <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n1/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n1Introduction/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n1/FlowerBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n1Introduction/FlowerBed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n1/PhoneCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n1Introduction/PhoneCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n2OOP/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/FloatRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/FloatRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/HTTPError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/HTTPError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/HttpErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/HttpErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n3/t2/Breed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t2/Breed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n3/t2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/FlyingBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/FlyingBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/NonFlyingBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/NonFlyingBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Swallow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Swallow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/CalcPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/CalcPay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/ContractEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/ContractEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/OrganizeInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/OrganizeInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/PositionNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/PositionNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/SumPosNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/SumPosNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n5/t2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n6/parameterizedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6Collections/parameterizedMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +46,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/NonFlyingBird.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/NonFlyingBird.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
@@ -32,7 +59,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/FlyingBird.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/FlyingBird.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -41,7 +68,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Bird.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Bird.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -54,7 +81,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/OrganizeInt.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/OrganizeInt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -66,7 +93,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/SumPosNum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/SumPosNum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
@@ -75,10 +102,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6/parameterizedMethods.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6Collections/parameterizedMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="142">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,7 +114,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/PositionNum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/PositionNum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
@@ -107,6 +134,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -149,10 +177,11 @@
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Bird.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6/parameterizedMethods.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6/PersonMap.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6Collections/parameterizedMethods.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -197,7 +226,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="set" type="462c0819:PsiDirectoryNode" />
               <item name="hw" type="462c0819:PsiDirectoryNode" />
-              <item name="n6" type="462c0819:PsiDirectoryNode" />
+              <item name="n6Collections" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,11 +258,11 @@
   </component>
   <component name="RunManager" selected="Application.parameterizedMethods">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5.t2.Car" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t2.Car" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5.t2.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +271,11 @@
       </method>
     </configuration>
     <configuration name="OrganizeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5.t1.OrganizeInt" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t1.OrganizeInt" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +284,11 @@
       </method>
     </configuration>
     <configuration name="PositionNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5.t1.PositionNum" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t1.PositionNum" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,11 +297,11 @@
       </method>
     </configuration>
     <configuration name="SumPosNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5.t1.SumPosNum" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5LoopsArrays.t1.SumPosNum" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n5LoopsArrays.t1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +310,11 @@
       </method>
     </configuration>
     <configuration name="parameterizedMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6.parameterizedMethods" />
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6Collections.parameterizedMethods" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n6.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n6Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +345,20 @@
       <workItem from="1560342210230" duration="31906000" />
       <workItem from="1560795667253" duration="4787000" />
       <workItem from="1560847257496" duration="6043000" />
-      <workItem from="1560883119491" duration="2258000" />
+      <workItem from="1560883119491" duration="2657000" />
     </task>
+    <task id="LOCAL-00001" summary="Collections-first task">
+      <created>1560885394816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560885394816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44994000" />
+    <option name="totallyTimeSpent" value="45393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -332,13 +369,13 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3295302" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1885906" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1885906" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="4" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -408,7 +445,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1/FlowerBed.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1Introduction/FlowerBed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -418,7 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1/Address.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1Introduction/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -428,7 +465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1/PhoneCalls.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1Introduction/PhoneCalls.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
@@ -438,7 +475,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n2/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n2OOP/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
@@ -462,7 +499,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/FloatRange.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/FloatRange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="20" column="9" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="20" selection-end-column="9" />
@@ -472,7 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/MaxMin.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/MaxMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
@@ -482,7 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/HTTPError.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/HTTPError.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
@@ -495,7 +532,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3/t1/HttpErrors.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t1/HttpErrors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
@@ -505,14 +542,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3/t2/Breed.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t2/Breed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3/t2/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3ConditionalStatements/t2/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
@@ -535,7 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Swallow.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Swallow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
@@ -548,7 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Penguin.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Penguin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
@@ -561,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Chicken.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Chicken.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
@@ -572,7 +609,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Eagle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Eagle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -585,49 +622,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/CalcPay.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/CalcPay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/SalariedEmployee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/SalariedEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/ContractEmployee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t2/ContractEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/Month.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/Month.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
@@ -637,7 +674,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t2/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t2/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
@@ -647,7 +684,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/NonFlyingBird.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/NonFlyingBird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
@@ -658,14 +695,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/FlyingBird.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/FlyingBird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4/t1/Bird.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n4Inheritance/t1/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -676,7 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/OrganizeInt.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/OrganizeInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -686,14 +723,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/SumPosNum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/SumPosNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5/t1/PositionNum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n5LoopsArrays/t1/PositionNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
@@ -710,10 +747,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6/parameterizedMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6Collections/parameterizedMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="142">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
