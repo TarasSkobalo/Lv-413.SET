@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n1/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n1/FlowerBed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n1/PhoneCalls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n2/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3/t1/FloatRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3/t1/HTTPError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3/t1/HttpErrors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3/t1/MaxMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3/t2/Breed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3/t2/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/Chicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/Eagle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/FlyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/NonFlyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/Penguin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t1/Swallow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t2/CalcPay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t2/ContractEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t2/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4/t2/SalariedEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5/t1/Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5/t1/OrganizeInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5/t1/PositionNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5/t1/SumPosNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5/t2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6/parameterizedMethods.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,13 +29,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+            <state relative-caret-position="255">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="e#252#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-55">
+              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#184#193#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#1244#1245#0" expanded="true" />
+                <element signature="e#1319#1320#0" expanded="true" />
+                <element signature="e#2455#2464#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/parameterizedMethods.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/NameComparator.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" />
       </list>
     </option>
   </component>
@@ -288,20 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonMap">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5_LoopsArrays.t2.Car" />
-      <module name="SoftServe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5_LoopsArrays.t2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Student">
     <configuration name="HttpErrors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n3_ConditionalStatements.t1.HttpErrors" />
       <module name="SoftServe" />
@@ -341,6 +324,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6_Collections.Student" />
+      <module name="SoftServe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softserve.set.hw.n6_Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="parameterizedMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6_Collections.parameterizedMethods" />
       <module name="SoftServe" />
@@ -356,11 +352,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.PersonMap" />
         <item itemvalue="Application.HttpErrors" />
         <item itemvalue="Application.parameterizedMethods" />
         <item itemvalue="Application.OrganizeInt" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +373,7 @@
       <workItem from="1560342210230" duration="31906000" />
       <workItem from="1560795667253" duration="4787000" />
       <workItem from="1560847257496" duration="6043000" />
-      <workItem from="1560883119491" duration="13257000" />
+      <workItem from="1560883119491" duration="15615000" />
     </task>
     <task id="LOCAL-00001" summary="Collections-first task">
       <created>1560885394816</created>
@@ -386,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560885394816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Collections-Second task">
+      <created>1560948821278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560948821278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55993000" />
+    <option name="totallyTimeSpent" value="58351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -465,7 +468,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Collections-first task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections-first task" />
+    <MESSAGE value="Collections-Second task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections-Second task" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/lecture/n1/Main.java">
@@ -783,10 +787,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        <state relative-caret-position="255">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="e#252#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#193#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#2455#2464#0" expanded="true" />
           </folding>
         </state>
       </provider>
