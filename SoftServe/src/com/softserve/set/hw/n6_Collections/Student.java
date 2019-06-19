@@ -1,14 +1,20 @@
 package com.softserve.set.hw.n6_Collections;
 
-        import java.io.BufferedReader;
-        import java.io.IOException;
-        import java.io.InputStreamReader;
-        import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.*;
 
 public class Student {
+
     private String name;
     private Integer courseNumb;
     private static List<Student> students2 = new ArrayList<Student>();
+
+    public Student(String name, Integer courseNumb) {
+        this.name = name;
+        this.courseNumb = courseNumb;
+    }
 
     public String getName() {
         return name;
@@ -26,11 +32,6 @@ public class Student {
         this.courseNumb = courseNumb;
     }
 
-    public Student(String name, Integer courseNumb) {
-        this.name = name;
-        this.courseNumb = courseNumb;
-    }
-
     // Printing students with course number you enter
     public static void printStudents(List<Student> students, Integer course) {
         ListIterator<Student> litr = students.listIterator();
@@ -40,7 +41,6 @@ public class Student {
             if ((element.getCourseNumb().equals(course))) {
                 students2.add(element);
             }
-
         }
         if (students2.isEmpty()) {
             System.out.println("No such course number :-(");
@@ -62,7 +62,6 @@ public class Student {
             String StudentName2 = s2.getName().toUpperCase();
 
             return StudentName1.compareTo(StudentName2);
-
         }
     };
 
@@ -74,7 +73,6 @@ public class Student {
             Integer StudentName2 = s2.getCourseNumb();
 
             return StudentName1.compareTo(StudentName2);
-
         }
     };
 
@@ -86,12 +84,14 @@ public class Student {
         int putCourse = Integer.parseInt(br.readLine());
         List<Student> students = new ArrayList<Student>();
 
-        students.add(new Student("Taras", 1));
-        students.add(new Student("Ivan", 3));
-        students.add(new Student("Stepan", 1));
-        students.add(new Student("Oleg", 4));
-        students.add(new Student("Misha", 3));
+        students.add(new Student("Taras", 5));
+        students.add(new Student("Yurii", 2));
+        students.add(new Student("Alex", 3));
+        students.add(new Student("Orest", 4));
+        students.add(new Student("Yarik", 2));
+        students.add(new Student("Yurii", 4));
 
+        // Method printStudents
         Student.printStudents(students, putCourse);
         System.out.println();
 

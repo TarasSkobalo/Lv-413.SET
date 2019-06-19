@@ -13,7 +13,6 @@ public class parameterizedMethods {
         return setUnion;
     }
 
-
     public static Set<Integer> intersect(Set set1, Set set2) {
         Set<Integer> setIntersect = new HashSet<>();
         setIntersect.addAll(set1);
@@ -39,7 +38,6 @@ public class parameterizedMethods {
 
         Set<Integer> setIntersect = intersect(set1, set2);
         System.out.println(setIntersect);
-
 
 
     }

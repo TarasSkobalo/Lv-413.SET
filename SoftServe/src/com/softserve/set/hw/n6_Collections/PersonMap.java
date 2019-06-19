@@ -10,7 +10,6 @@ public class PersonMap {
         Set<String> temporary = new HashSet<String>();
         temporary.addAll(personMap.values());
         return personMap.size() == temporary.size() ? false : true;
-
     }
 
     public static void remove(Map<String, String> person, String firstName) {
@@ -23,7 +22,6 @@ public class PersonMap {
         }
     }
 
-
     public static void main(String[] args) {
         Map<String, String> person = new HashMap();
         person.put("Oleg", "Twix");
@@ -33,21 +31,20 @@ public class PersonMap {
         person.put("Oleg5", "Twix4");
         person.put("Oleg6", "Twix5");
         person.put("Oleg7", "Twix");
-
+//      Task 1
         for (Map.Entry<String, String> entry : person.entrySet()) {
             System.out.println(entry.getKey() + " "
                     + entry.getValue());
         }
-        System.out.println("______________________________");
-        System.out.println("Is there persons with the same name: " + sameName(person));
+//      Task 2
+        System.out.println("\n" + "Is there persons with the same name: " + sameName(person));
         System.out.println(" ");
+//      Task 3
         remove(person, "Twix1");
 
         for (Map.Entry<String, String> entry : person.entrySet()) {
             System.out.println(entry.getKey() + " "
                     + entry.getValue());
         }
-
-
     }
 }
