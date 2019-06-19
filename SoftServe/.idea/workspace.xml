@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,22 +43,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+            <state relative-caret-position="302">
+              <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#184#193#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#1244#1245#0" expanded="true" />
-                <element signature="e#1319#1320#0" expanded="true" />
-                <element signature="e#2455#2464#0" expanded="true" />
+                <element signature="e#330#339#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#1390#1391#0" expanded="true" />
+                <element signature="e#1465#1466#0" expanded="true" />
+                <element signature="e#2509#2518#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -373,7 +372,7 @@
       <workItem from="1560342210230" duration="31906000" />
       <workItem from="1560795667253" duration="4787000" />
       <workItem from="1560847257496" duration="6043000" />
-      <workItem from="1560883119491" duration="15615000" />
+      <workItem from="1560883119491" duration="15804000" />
     </task>
     <task id="LOCAL-00001" summary="Collections-first task">
       <created>1560885394816</created>
@@ -389,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560948821278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Collections-Third task">
+      <created>1560951349250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560951349250</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58351000" />
+    <option name="totallyTimeSpent" value="58540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -469,7 +475,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Collections-first task" />
     <MESSAGE value="Collections-Second task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections-Second task" />
+    <MESSAGE value="Collections-Third task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections-Third task" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/lecture/n1/Main.java">
@@ -797,22 +804,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+        <state relative-caret-position="302">
+          <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#184#193#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
-            <element signature="e#2455#2464#0" expanded="true" />
+            <element signature="e#330#339#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+            <element signature="e#1465#1466#0" expanded="true" />
+            <element signature="e#2509#2518#0" expanded="true" />
           </folding>
         </state>
       </provider>
