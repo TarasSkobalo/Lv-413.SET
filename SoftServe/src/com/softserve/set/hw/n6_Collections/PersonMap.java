@@ -7,9 +7,9 @@ public class PersonMap {
     Map<String, String> person = new HashMap();
 
     public static boolean sameName(Map<String, String> personMap) {
-        Set<String> temporary = new HashSet<String>();
-        temporary.addAll(personMap.values());
-        return personMap.size() == temporary.size() ? false : true;
+        Set<String> stringSet = new HashSet<String>();
+        stringSet.addAll(personMap.values());
+        return personMap.size() == stringSet.size() ? false : true;
     }
 
     public static void remove(Map<String, String> person, String firstName) {

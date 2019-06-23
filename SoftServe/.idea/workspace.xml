@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="Collections-Third task">
+      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/ConvertSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/FiveWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/Div.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/ReadNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/PersonMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/PersonMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/Student$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/Student$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/parameterizedMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/parameterizedMethods.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/parameterizedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/parameterizedMethods.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +26,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/parameterizedMethods.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/FiveWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/Patterns.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/Div.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/ReadNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,110 +75,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/ConvertSpace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
-              <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#1390#1391#0" expanded="true" />
-                <element signature="e#1465#1466#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1_Introduction/FlowerBed.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n1_Introduction/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n2_OOP/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3_ConditionalStatements/t1/FloatRange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3_ConditionalStatements/t1/MaxMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3_ConditionalStatements/t1/HTTPError.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n3_ConditionalStatements/t1/HttpErrors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,14 +144,20 @@
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6Collections/parameterizedMethods.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/NameComparator.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/parameterizedMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/ConvertSpace.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/FiveWords.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/Pattern.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/Patterns.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/Div.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/ReadNumber.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -219,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,13 +200,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="set" type="462c0819:PsiDirectoryNode" />
               <item name="hw" type="462c0819:PsiDirectoryNode" />
-              <item name="n6_Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="n7_String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftServe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftServe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
+              <item name="hw" type="462c0819:PsiDirectoryNode" />
+              <item name="n8_Exceptions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -281,13 +238,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Student">
-    <configuration name="HttpErrors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n3_ConditionalStatements.t1.HttpErrors" />
+  <component name="RunManager" selected="Application.ReadNumber">
+    <configuration name="ConvertSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n7_String.ConvertSpace" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n3_ConditionalStatements.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n7_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganizeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n5_LoopsArrays.t1.OrganizeInt" />
+    <configuration name="Div" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n8_Exceptions.Div" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n5_LoopsArrays.t1.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n8_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6_Collections.PersonMap" />
+    <configuration name="FiveWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n7_String.FiveWords" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n6_Collections.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n7_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6_Collections.Student" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n7_String.Patterns" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n6_Collections.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n7_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parameterizedMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n6_Collections.parameterizedMethods" />
+    <configuration name="ReadNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.hw.n8_Exceptions.ReadNumber" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.hw.n6_Collections.*" />
+          <option name="PATTERN" value="com.softserve.set.hw.n8_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.PersonMap" />
-        <item itemvalue="Application.HttpErrors" />
-        <item itemvalue="Application.parameterizedMethods" />
-        <item itemvalue="Application.OrganizeInt" />
+        <item itemvalue="Application.ReadNumber" />
+        <item itemvalue="Application.Div" />
+        <item itemvalue="Application.Patterns" />
+        <item itemvalue="Application.FiveWords" />
+        <item itemvalue="Application.ConvertSpace" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +328,8 @@
       <workItem from="1560795667253" duration="4787000" />
       <workItem from="1560847257496" duration="6043000" />
       <workItem from="1560883119491" duration="15921000" />
-      <workItem from="1560971799279" duration="1112000" />
+      <workItem from="1560971799279" duration="2561000" />
+      <workItem from="1561015150877" duration="9107000" />
     </task>
     <task id="LOCAL-00001" summary="Collections-first task">
       <created>1560885394816</created>
@@ -398,7 +356,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59769000" />
+    <option name="totallyTimeSpent" value="70325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -410,7 +368,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3295302" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19127516" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.19395973" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -420,7 +378,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.33569404" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.33569404" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -442,17 +400,17 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3295302" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.12348993" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19395973" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.2266289" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.33569404" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -762,37 +720,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/parameterizedMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+        <state relative-caret-position="136">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#1390#1391#0" expanded="true" />
-            <element signature="e#1465#1466#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/PersonMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/parameterizedMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/FiveWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/Patterns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n7_String/ConvertSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/Div.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n8_Exceptions/ReadNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
