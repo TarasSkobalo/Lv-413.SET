@@ -2,75 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="Collections-Third task">
-      <change afterPath="$PROJECT_DIR$/../FirstTest/src/main/java/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstTest/src/main/java/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n2_OOP/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n3_ConditionalStatements/task1/OddNumb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n3_ConditionalStatements/task2/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n3_ConditionalStatements/task2/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n3_ConditionalStatements/task3/Continents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n3_ConditionalStatements/task3/ContryOfCont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Cleaner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Persons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n5_LoopsArrays/task1/MaxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n5_LoopsArrays/task1/NegNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n5_LoopsArrays/task1/SumNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n6_Collections/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task1/Div.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/ColorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/TypeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Citrus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Citrus/src/Citrus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Citrus/src/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Citrus/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/Comfy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comfy/src/test/java/Comfy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstTest/src/main/java/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstTest/src/test/java/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstTest/target/classes/Calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstTest/target/classes/CalcTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n1_Introduction/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n1_Introduction/FlowerBed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n1_Introduction/PhoneCalls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n2_OOP/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3_ConditionalStatements/t1/FloatRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3_ConditionalStatements/t1/HTTPError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3_ConditionalStatements/t1/HttpErrors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3_ConditionalStatements/t1/MaxMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3_ConditionalStatements/t2/Breed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n3_ConditionalStatements/t2/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/Chicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/Eagle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/FlyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/NonFlyingBird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/Penguin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t1/Swallow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t2/CalcPay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t2/ContractEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t2/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n4_Inheritance/t2/SalariedEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5_LoopsArrays/t1/Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5_LoopsArrays/t1/OrganizeInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5_LoopsArrays/t1/PositionNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5_LoopsArrays/t1/SumPosNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n5_LoopsArrays/t2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/PersonMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/Student$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/Student$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n6_Collections/parameterizedMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n7_String/ConvertSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n7_String/FiveWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n7_String/Patterns.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n8_Exceptions/Div.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/hw/n8_Exceptions/ReadNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftServe/com/softserve/set/lecture/n1/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,51 +35,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Plants.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/ConvertSpace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="238">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/ColorException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/Patterns.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="289">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/TypeException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n8_Exceptions/Div.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="11" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/ConvertSpace.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n8_Exceptions/ReadNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="658">
+              <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,52 +107,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/SumPosNum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/PersonMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/Month.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n6_Collections/task1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Color.java">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Type.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -218,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/CalcPay.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/Main.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/SalariedEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/hw/n4/t2/ContractEmployee.java" />
@@ -269,13 +210,14 @@
         <option value="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Type.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Plants.java" />
         <option value="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n6_Collections/task1.java" />
+        <option value="$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-9" />
+    <option name="width" value="1204" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -285,8 +227,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,6 +259,14 @@
               <item name="SoftServe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="set" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="n6_Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftServe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftServe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
               <item name="practicalTasks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -329,6 +279,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Citrus" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -346,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task1">
+  <component name="RunManager" selected="Application.Patterns">
     <configuration name="FiveWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.softserve.set.homework.n7_String.FiveWords" />
       <module name="SoftServe" />
@@ -360,8 +311,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.practicalTasks.n5_LoopsArrays.task1.MaxNum" />
+    <configuration name="NegNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.practicalTasks.n5_LoopsArrays.task1.NegNum" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
@@ -373,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.softserve.set.practicalTasks.n5_LoopsArrays.task1.NegNum" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softserve.set.homework.n7_String.Patterns" />
       <module name="SoftServe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.softserve.set.practicalTasks.n5_LoopsArrays.task1.*" />
+          <option name="PATTERN" value="com.softserve.set.homework.n7_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.FiveWords" />
         <item itemvalue="Application.NegNum" />
         <item itemvalue="Application.SumNum" />
-        <item itemvalue="Application.MaxNum" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +390,10 @@
       <workItem from="1560971799279" duration="2561000" />
       <workItem from="1561015150877" duration="13886000" />
       <workItem from="1561377321779" duration="6906000" />
-      <workItem from="1561445694376" duration="717000" />
+      <workItem from="1561445694376" duration="3525000" />
+      <workItem from="1561540404193" duration="572000" />
+      <workItem from="1561810941804" duration="8758000" />
+      <workItem from="1561973761765" duration="1931000" />
     </task>
     <task id="LOCAL-00001" summary="Collections-first task">
       <created>1560885394816</created>
@@ -466,7 +420,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82727000" />
+    <option name="totallyTimeSpent" value="96796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -478,7 +432,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3295302" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19932885" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.17785235" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -546,62 +500,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Collections-Third task" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t2/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/NonFlyingBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/FlyingBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/OrganizeInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/PositionNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6/PersonMap.java" />
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/hw/n6_Collections/NameComparator.java" />
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n1_Introduction/FlowerBed.java">
@@ -655,53 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/parameterizedMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/PersonMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/Patterns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n8_Exceptions/Div.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n8_Exceptions/ReadNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -934,37 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/ConvertSpace.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n6_Collections/task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/FiveWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/SumPosNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        <state relative-caret-position="493">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -985,10 +809,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n6_Collections/task1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/parameterizedMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/SumPosNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/PositionNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/OrganizeInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/ConvertSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/Patterns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n8_Exceptions/Div.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n8_Exceptions/ReadNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n7_String/FiveWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/PersonMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
