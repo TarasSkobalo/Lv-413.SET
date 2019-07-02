@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="Collections-Third task">
-      <change afterPath="$PROJECT_DIR$/../Citrus/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Citrus/src/Citrus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Citrus/src/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Citrus/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/Comfy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Comfy/src/test/java/Comfy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstTest/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstTest/src/main/java/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstTest/src/test/java/CalcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstTest/target/classes/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstTest/target/classes/CalcTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Citrus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Fruit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Fruit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Citrus/src/Citrus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/src/Citrus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Citrus/src/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/src/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Citrus/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+            <state relative-caret-position="301">
+              <caret line="74" column="56" lean-forward="true" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -214,10 +204,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="1204" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -227,8 +217,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,6 +261,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -393,7 +383,8 @@
       <workItem from="1561445694376" duration="3525000" />
       <workItem from="1561540404193" duration="572000" />
       <workItem from="1561810941804" duration="8758000" />
-      <workItem from="1561973761765" duration="1931000" />
+      <workItem from="1561973761765" duration="3277000" />
+      <workItem from="1562050073658" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="Collections-first task">
       <created>1560885394816</created>
@@ -420,10 +411,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96796000" />
+    <option name="totallyTimeSpent" value="98873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -432,7 +423,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3295302" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.17785235" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18077958" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -903,6 +894,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/PersonMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/Month.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -924,17 +922,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/PersonMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n6_Collections/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+        <state relative-caret-position="301">
+          <caret line="74" column="56" lean-forward="true" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

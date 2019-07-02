@@ -91,7 +91,7 @@ public class Student {
         students.add(new Student("Yarik", 2));
         students.add(new Student("Yurii", 4));
 
-        // Method printStudents
+        //  Method printStudents
         Student.printStudents(students, putCourse);
         System.out.println();
 
