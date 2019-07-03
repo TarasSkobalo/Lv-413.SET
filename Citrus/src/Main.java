@@ -26,15 +26,17 @@ public class Main {
         citrus.input();
         fruitsList.add(citrus);
 
+        System.out.println("List objects fruits and citrus");
         fruit.input(fruitsList);
         fruit.output();
 
+        System.out.println(" ");
         System.out.println("\nSorting fruits by name: ");
         Collections.sort(fruitsList, Fruit.fruitComparator);
         for (Fruit str : fruitsList) {
             System.out.print(str);
         }
-
+        System.out.println(" ");
         System.out.println("\nEnter color which you want to see:");
         String color = br.readLine();
         List<Fruit> listFruitsByColor = fruit.fruitsByColor(fruitsList, color);

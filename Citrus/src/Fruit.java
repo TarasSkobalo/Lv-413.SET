@@ -3,7 +3,7 @@ import java.beans.XMLEncoder;
 import java.io.*;
 import java.util.*;
 
-public class Fruit {
+public class Fruit implements Serializable{
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

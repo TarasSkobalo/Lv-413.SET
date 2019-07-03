@@ -1,7 +1,8 @@
 import java.io.IOException;
+import java.io.Serializable;
 import java.util.InputMismatchException;
 
-public class Citrus extends Fruit {
+public class Citrus extends Fruit implements Serializable {
 
     private double vitaminC;
 
