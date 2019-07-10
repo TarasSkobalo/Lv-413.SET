@@ -12,6 +12,6 @@ public class Swallow extends FlyingBird {
 
     @Override
     public String toString() {
-        return "Swallow has " + this.getFeathers()+" feathers and lays " + this.getLayEggs()+" eggs";
+        return "Swallow has " + this.getFeathers() + " feathers and lays " + this.getLayEggs() + " eggs";
     }
 }

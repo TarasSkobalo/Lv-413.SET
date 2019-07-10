@@ -56,7 +56,7 @@ public class Fruit implements Serializable{
     }
 
     //   Serialized
-    public void input(ArrayList arrayList) throws IOException {
+    public static void serialization(ArrayList arrayList) throws IOException {
         FileOutputStream fos = new FileOutputStream("fruits.xml");
         XMLEncoder encoder = new XMLEncoder(fos);
         encoder.writeObject(arrayList);
@@ -65,7 +65,7 @@ public class Fruit implements Serializable{
     }
 
     //  De-Serialized
-    public void output() {
+    public static void deSerialization() {
         try (XMLDecoder xmlDecoder = new XMLDecoder(new FileInputStream("fruits.xml"))) {
             ArrayList<Fruit> arrayList = (ArrayList<Fruit>) xmlDecoder.readObject();
             System.out.printf(arrayList.toString());
@@ -74,29 +74,4 @@ public class Fruit implements Serializable{
             System.out.println(ex.getMessage());
         }
     }
-
-    // Comparator by Name
-    public static Comparator<Fruit> fruitComparator = new Comparator<Fruit>() {
-
-        public int compare(Fruit s1, Fruit s2) {
-            String fruit1 = s1.getName().toUpperCase();
-            String fruit2 = s2.getName().toUpperCase();
-
-            return fruit1.compareTo(fruit2);
-        }
-    };
-
-    // Find fruit by color
-    public List<Fruit> fruitsByColor(List<Fruit> fruits, String color) {
-
-        List<Fruit> newFruitsList = new ArrayList<>();
-
-        for (Fruit fruit : fruits) {
-            if (fruit.getColor().equals(color.toLowerCase())) {
-                newFruitsList.add(fruit);
-            }
-        }
-        return newFruitsList;
-    }
-
 }

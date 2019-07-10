@@ -1,6 +1,6 @@
 package com.softserve.set.homework.n4_Inheritance.t2;
 
-public abstract class Employee implements CalcPay{
+public abstract class Employee implements CalcPay {
 
     private String employeeld;
     private String name;

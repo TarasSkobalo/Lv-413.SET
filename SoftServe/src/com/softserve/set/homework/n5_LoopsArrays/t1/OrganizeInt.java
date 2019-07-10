@@ -23,7 +23,7 @@ public class OrganizeInt {
 
         if (counter == 0)
             counter = 1;
-            average = sum / counter;
+        average = sum / counter;
 
         System.out.println("Average is : " + average);
 

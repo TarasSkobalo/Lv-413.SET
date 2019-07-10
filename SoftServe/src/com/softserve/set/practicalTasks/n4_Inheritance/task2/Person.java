@@ -4,5 +4,5 @@ public abstract class Person {
 
     private String name;
 
-    abstract void print() ;
+    abstract void print();
 }

@@ -2,16 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d50fb129-0138-4823-944b-6d6989250312" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindByColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/SeleniumProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/main/resources/testng-6.14.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/test/java/GoogleChrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SecondDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SecondDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruits.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fruits.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SecondDemo/Citrus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondDemo/Citrus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondDemo/Fruit$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SecondDemo/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondDemo/Fruit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SecondDemo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondDemo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SecondDemo/TestFruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SecondDemo/TestFruit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Citrus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Citrus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/General.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestFruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n1_Introduction/FlowerBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n1_Introduction/FlowerBed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Breed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Breed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t1/FlyingBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t1/FlyingBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t1/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t1/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t1/Swallow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t1/Swallow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n4_Inheritance/t2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n5_LoopsArrays/t1/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n5_LoopsArrays/t1/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n5_LoopsArrays/t1/OrganizeInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n5_LoopsArrays/t1/OrganizeInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n5_LoopsArrays/t1/SumPosNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/homework/n5_LoopsArrays/t1/SumPosNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Cleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Cleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n8_Exceptions/task1/Div.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/ColorException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Plants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftServe/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/TypeException.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,12 +65,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            <state relative-caret-position="697">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="49" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1049#1050#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FindByColor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortByName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fruits.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
+            <state relative-caret-position="1428">
               <caret line="84" selection-start-line="84" selection-end-line="84" />
             </state>
           </provider>
@@ -51,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Citrus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="340">
+              <caret line="26" column="112" selection-start-line="26" selection-start-column="112" selection-end-line="26" selection-end-column="112" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,10 +117,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/General.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="408">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +131,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestFruit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="170">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,9 +157,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/NameComparator.java" />
         <option value="$PROJECT_DIR$/fruits.xml" />
+        <option value="$PROJECT_DIR$/src/FIndByColor.java" />
+        <option value="$PROJECT_DIR$/src/src/VitaminException.java" />
         <option value="$PROJECT_DIR$/src/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/Citrus.java" />
+        <option value="$PROJECT_DIR$/src/General.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Citrus.java" />
+        <option value="$PROJECT_DIR$/src/VitaminException.java" />
+        <option value="$PROJECT_DIR$/src/SortByName.java" />
+        <option value="$PROJECT_DIR$/src/FindByColor.java" />
         <option value="$PROJECT_DIR$/src/TestFruit.java" />
       </list>
     </option>
@@ -121,8 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,10 +195,16 @@
               <item name="Citrus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Citrus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,13 +212,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/testng-6.14.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SoftServe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,8 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="General" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="General" />
       <module name="SecondDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -195,7 +266,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TestFruit" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.General" />
         <item itemvalue="Application.Fruit" />
       </list>
     </recent_temporary>
@@ -213,6 +284,11 @@
       <workItem from="1561810224165" duration="13619000" />
       <workItem from="1561973896701" duration="14754000" />
       <workItem from="1562050208261" duration="10547000" />
+      <workItem from="1562135793185" duration="7368000" />
+      <workItem from="1562181530203" duration="2140000" />
+      <workItem from="1562585682104" duration="3594000" />
+      <workItem from="1562687975607" duration="3125000" />
+      <workItem from="1562748105487" duration="91000" />
     </task>
     <servers />
   </component>
@@ -226,15 +302,18 @@
     <history-entry file="TestFruit - 2019.07.02 at 13h 32m 07s.xml">
       <configuration name="TestFruit" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestFruit - 2019.07.10 at 11h 42m 58s.xml">
+      <configuration name="TestFruit" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38920000" />
+    <option name="totallyTimeSpent" value="55238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.118120804" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12483221" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -275,39 +354,56 @@
     <entry file="file://$PROJECT_DIR$/SecondDemo.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fruits.xml">
+    <entry file="file://$PROJECT_DIR$/src/VitaminException.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="697">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="49" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fruit.java">
+    <entry file="file://$PROJECT_DIR$/src/FindByColor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortByName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fruits.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Citrus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="340">
+          <caret line="26" column="112" selection-start-line="26" selection-start-column="112" selection-end-line="26" selection-end-column="112" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/General.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="408">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -316,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestFruit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="170">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

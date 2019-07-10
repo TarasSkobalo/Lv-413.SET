@@ -24,17 +24,19 @@ public class Citrus extends Fruit implements Serializable {
 
     @Override
     public String toString() {
-
         return "\nCitrus name: " + getName() + " Color: " + getColor() + " Vitamin C: " + getVitaminC() + " mg";
-
     }
 
     @Override
     public Fruit input() throws IOException {
-        super.input();
+        System.out.println("Enter name of citrus");
+        setName(br.readLine());
+        System.out.println("Enter citrus's color");
+        setColor(br.readLine().toLowerCase());
         try {
             System.out.println("Enter quantity of vitamin C");
             setVitaminC(Double.parseDouble(br.readLine()));
+
         } catch (InputMismatchException e) {
             System.err.println("PLS...Enter digits");
         }

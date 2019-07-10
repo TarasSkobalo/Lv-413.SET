@@ -64,14 +64,14 @@ public class Dog {
         Dog dog1 = new Dog("James", Breed.Boxer, 5);
         Dog dog2 = new Dog("James", Breed.Beagle, 2);
         Dog dog3 = new Dog("Nick", Breed.Bulldog, 1);
-        System.out.println("1. "+dog1);
-        System.out.println("   "+dog2);
-        System.out.println("   "+dog3 + "\n");
+        System.out.println("1. " + dog1);
+        System.out.println("   " + dog2);
+        System.out.println("   " + dog3 + "\n");
 
         if (dog1.getName() == dog2.getName() || dog1.getName() == dog3.getName() || dog2.getName() == dog3.getName()) {
-            System.out.println("2. There are dogs with the same name."+"\n");
+            System.out.println("2. There are dogs with the same name." + "\n");
         } else {
-            System.out.println("2. All dogs have a unique names"+"\n");
+            System.out.println("2. All dogs have a unique names" + "\n");
         }
 
         if (dog1.getAge() > dog2.getAge() && dog1.getAge() > dog3.getAge()) {

@@ -1,6 +1,6 @@
 package com.softserve.set.practicalTasks.n4_Inheritance.task2;
 
-public class Cleaner extends Staff{
+public class Cleaner extends Staff {
 
     @Override
     void salary() {

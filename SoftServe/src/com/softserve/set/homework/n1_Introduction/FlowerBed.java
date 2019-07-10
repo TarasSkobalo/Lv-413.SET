@@ -16,6 +16,6 @@ public class FlowerBed {
         double area = PI * (radius * radius);
 
         System.out.printf("When radius is: " + radius + " perimetr of circle is: " + "%.2f", perim);
-        System.out.printf("\n"+"When radius is: " + radius + " area of circle is: " + "%.2f", area);
+        System.out.printf("\n" + "When radius is: " + radius + " area of circle is: " + "%.2f", area);
     }
 }

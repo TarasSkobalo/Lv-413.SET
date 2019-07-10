@@ -1,7 +1,7 @@
 package com.softserve.set.homework.n4_Inheritance.t2;
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Employee[] emp = new Employee[4];
 
         emp[0] = new ContractEmployee("1", "Taras", "FT-1", 3200);
