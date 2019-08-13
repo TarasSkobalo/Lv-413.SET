@@ -2,52 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841f7d42-2686-458d-95ba-c551c0fe66b0" name="Default Changelist" comment="Collections-Third task">
-      <change afterPath="$PROJECT_DIR$/../Citrus/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Citrus/src/FindByColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Citrus/src/SortByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/SeleniumProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/main/resources/testng-6.14.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/test/java/GoogleChrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Citrus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/SecondDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/SecondDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/fruits.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/fruits.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Citrus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Fruit$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/out/production/SecondDemo/TestFruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/src/Citrus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/src/Citrus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/src/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/src/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Citrus/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/src/General.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Citrus/src/TestFruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Citrus/src/TestFruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n1_Introduction/FlowerBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n1_Introduction/FlowerBed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Breed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Breed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/FlyingBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/FlyingBird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/Swallow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/Swallow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/Month.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/OrganizeInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/OrganizeInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/SumPosNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/homework/n5_LoopsArrays/t1/SumPosNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Cleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Cleaner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n4_Inheritance/task2/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task1/Div.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/ColorException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Plants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Type.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/TypeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +17,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n1_Introduction/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,7 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,11 +125,32 @@
               <item name="SoftServe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SoftServe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftServe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftServe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftServe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftServe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftServe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="n1_Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,6 +274,7 @@
       <workItem from="1561973761765" duration="3277000" />
       <workItem from="1562050073658" duration="731000" />
       <workItem from="1562704769888" duration="601000" />
+      <workItem from="1562748533039" duration="962000" />
     </task>
     <task id="LOCAL-00001" summary="Collections-first task">
       <created>1560885394816</created>
@@ -312,10 +301,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99474000" />
+    <option name="totallyTimeSpent" value="100436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -323,7 +313,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3295302" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18346775" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18615592" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -391,13 +381,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Collections-Third task" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n3_ConditionalStatements/t2/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n4_Inheritance/t1/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -751,31 +734,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/ColorException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task1/Div.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task2/ColorException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n8_Exceptions/task1/Div.java" />
     <entry file="file://$PROJECT_DIR$/src/com/softserve/set/practicalTasks/n6_Collections/task1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/softserve/set/homework/n1_Introduction/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>

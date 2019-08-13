@@ -7,26 +7,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class TestFruit {
-    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    @Test
-    public void inputTest() throws IOException {
-//        Arrange
-
-        Fruit actual = new Fruit();
-        Fruit expected = new Fruit("Mango", "orange");
-
-//        Act
-
-        actual.setName("Mango");
-        actual.setColor("orange");
-
-//        Assert
-        Assert.assertEquals(expected.getName(), actual.getName());
-        Assert.assertEquals(expected.getColor(), actual.getColor());
-
-    }
-    
     @Test
     public void getFruitsByColorTest() {
         //Arrange
@@ -38,12 +19,12 @@ public class TestFruit {
 
         testList.add(new Fruit("apple", "green"));
         testList.add(new Fruit("pineapple", "yellow"));
-        testList.add(new Fruit("pear", "orange"));
-        testList.add(new Fruit("banan", "yellow"));
-        testList.add(new Fruit("pear", "orange"));
+        testList.add(new Fruit("grape", "blue"));
+        testList.add(new Fruit("banana", "yellow"));
+        testList.add(new Fruit("grape", "blue"));
 
         actual.add(new Fruit("pineapple", "yellow"));
-        actual.add(new Fruit("banan", "yellow"));
+        actual.add(new Fruit("banana", "yellow"));
         //Act
         expected = FindByColor.fruitsByColor(testList, "yellow");
         for (Fruit f : expected) {
@@ -63,14 +44,14 @@ public class TestFruit {
 
         ArrayList<Fruit> fruits = new ArrayList<Fruit>();
 
-        fruits.add(new Fruit("apple", "green"));
+        fruits.add(new Fruit("grape", "green"));
         fruits.add(new Fruit("mango", "red"));
-        fruits.add(new Fruit("banan", "yellow"));
+        fruits.add(new Fruit("banana", "yellow"));
 
 
         ArrayList<Fruit> expected = new ArrayList<Fruit>();
-        expected.add(new Fruit("apple", "green"));
-        expected.add(new Fruit("banan", "yellow"));
+        expected.add(new Fruit("grape", "green"));
+        expected.add(new Fruit("banana", "yellow"));
         expected.add(new Fruit("mango", "red"));
 
 
